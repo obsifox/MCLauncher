@@ -1,0 +1,4 @@
+-keep class com.oracle.dalvik.VMLauncher { *; }
+-keep class net.kdt.pojavlaunch.utils.JREUtils { *; }
+-keep class net.kdt.pojavlaunch.Logger { *; }
+-keep class org.lwjgl.glfw.** { *; }
